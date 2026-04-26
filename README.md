@@ -1,4 +1,4 @@
-#### Python Learning Journey
+\#### Python Learning Journey
 ----
 Learning Python through CS50P.
 ----
